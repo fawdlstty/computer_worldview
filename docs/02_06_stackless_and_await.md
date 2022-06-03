@@ -1,6 +1,4 @@
-# 第二章 计算机语言
-
-## 第六节 stackless与await
+# 第六节 stackless与await
 
 await是一种特殊的语义抽象语法，它能将回调语法简写为简单的调用形式。在js、python、c#等语言有await关键字，c艹语言有co_await关键字都能实现同样的作用。
 

@@ -2,8 +2,9 @@
 
 《计算机世界观》 助你塑造正确的计算机世界观
 
-## 目录
+在线阅读：<http://worldview.fawdlstty.com>
 
+<!--
 - **第一章 从机器到计算机**
     - [第一节 计算的由来](docs/01_01_compute.md)
     - [第二节 存储技术的古往今生](docs/01_02_datastore.md)
@@ -13,10 +14,9 @@
     - [第二节 面向机器语言](docs/02_02_hardware_lang.md)
     - [第三节 高级语言](docs/02_03_high_level_lang.md)
     - [第四节 编译器前端](docs/02_04_compiler_frontend.md)
-    - 第五节 编译器后端<!--[](docs/02_05_compiler_backend.md)-->
+    - 第五节 编译器后端<!--[](docs/02_05_compiler_backend.md)
     - [第六节 stackless与await](docs/02_06_stackless_and_await.md)
 - *目录结构正在整理中。。。*
-<!--
 - **第三章 操作系统**
     - [第一节 操作系统架构]
     - [第二节 Windows]
