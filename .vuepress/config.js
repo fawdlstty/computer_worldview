@@ -1,9 +1,9 @@
 module.exports = {
-    title: 'libfv 文档',
-    description: 'libfv 是 C++20 纯头文件网络库，支持 TCP/SSL/Http/websocket 服务器端与客户端',
+    title: 'computer_worldview',
+    description: '《计算机世界观》 助你塑造正确的计算机世界观',
     themeConfig: {
         nav: [
-            { text: 'Github', link: 'https://github.com/fawdlstty/libfv' }
+            { text: 'Github', link: 'https://github.com/fawdlstty/computer_worldview' }
         ],
         sidebar: [{
             title: '首页',
